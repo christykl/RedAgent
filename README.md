@@ -1,1 +1,1 @@
-A GPT-4o agent for context-aware red teaming of LLMs, based on the [RedAgent](https://arxiv.org/abs/2407.16667) paper. Multi-agent system with long and short-term memory built with LangChain/LangGraph.
+A GPT-4o agent for context-aware red teaming of LLMs, based on the [RedAgent](https://arxiv.org/abs/2407.16667) paper. Multi-agent system with long and short-term memory built with LangChain/LangGraph. Run [RedAgent.ipynb](RedAgent.ipynb) to see it in action, and the resulting messages will be saved as a json to the workflow_outputs folder.
